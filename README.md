@@ -1,4 +1,5 @@
-# FitGroup: Network of Hexiwear Fitness Watches for group of friends/family
+# FitGroup: Network of Hexiwear Fitness Watches for group of friends/family<br>
+M119_Final_Project_UCLA
 ## Members
 * Trevor Hackett
 * Wenfei Lu
