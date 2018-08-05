@@ -1,10 +1,8 @@
-# M119_Final_Project_UCLA
+# FitGroup: Network of Hexiwear Fitness Watches for group of friends/family
 ## Members
 * Trevor Hackett
 * Wenfei Lu
 * Aadithya Venkatanarayanan
-## Project Title 
-FitGroup: Network of Hexiwear Fitness Watches for group of friends/family
 ### Hardware
 * Raspberry pi
 * Hexiwear
